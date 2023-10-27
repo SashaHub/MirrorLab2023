@@ -1,2 +1,2 @@
 # MirrorLab2023
-Results for mirror lab "ML in cardiology" project
+Results for mirroring laboratory "ML in cardiology" project
